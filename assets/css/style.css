@@ -1,0 +1,34 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.show {
+    display: none;
+}
+
+.w-50 {
+    width: 50%;
+}
+.w-95{
+    width: 95%;
+}
+
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.ml-23{
+    margin-left: 23px;
+}
+.box{
+    background-color: #FFFFFF;
+    width: 100%;
+}
+.password{
+    border: none;
+}
+.password:focus{
+    outline: none;
+}
